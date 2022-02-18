@@ -1,9 +1,6 @@
-# REACT GAMES - CHECKPOINT 2
-## Disclaimer
+# WILD GAMES
 
-The checkpoint is quite consequent, it's no big deal if you don't do everything before the deadline. Do your best, and most importantly **HAVE FUN** :smiley:
-
-# The checkpoint itself :fire:
+# Subject of the checkpoint :fire:
 
 ## :zero: Setup
 
@@ -68,10 +65,6 @@ You are going to use `react-router` and `react-router-dom`
 
 _you know what to do, right ?_ :wink:
 
-## :two: Quizz
-
-- To answer the quiz go to [this application](https://wild-quizz.jsrover.wilders.dev/play/checkpoint-2).
-
 - - -
 ### Congrats ! You did it ! :confetti_ball:
 
@@ -97,3 +90,13 @@ If you don't know which one to choose, we can recommand Tailwind.
 You can start by looking at the documentation about [how to install it](https://tailwindcss.com/docs/installation).
 
 **Be careful !** :warning: If you choose to start using `create-react-app`, you will need to install CRACO, but every steps [are explained here](https://tailwindcss.com/docs/guides/create-react-app).
+
+- - -
+# TO SEE THIS PROJECT IN ACTION LOCALLY :
+
+- git clone git@github.com:Tadkozh/Wild-Games.git
+- npm install
+- npm start
+- enjoy !
+
+![Wild Games](ressources/wildGames.png)
