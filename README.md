@@ -1,5 +1,15 @@
 # WILD GAMES
+- - -
+# TO SEE THIS PROJECT IN ACTION LOCALLY :
 
+- git clone git@github.com:Tadkozh/Wild-Games.git
+- npm install
+- npm start
+- enjoy !
+
+![Wild Games](ressources/wildGames.png)
+
+- - -
 # Subject of the checkpoint :fire:
 
 ## :zero: Setup
@@ -91,12 +101,3 @@ You can start by looking at the documentation about [how to install it](https://
 
 **Be careful !** :warning: If you choose to start using `create-react-app`, you will need to install CRACO, but every steps [are explained here](https://tailwindcss.com/docs/guides/create-react-app).
 
-- - -
-# TO SEE THIS PROJECT IN ACTION LOCALLY :
-
-- git clone git@github.com:Tadkozh/Wild-Games.git
-- npm install
-- npm start
-- enjoy !
-
-![Wild Games](ressources/wildGames.png)
