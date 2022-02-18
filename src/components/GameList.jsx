@@ -1,6 +1,7 @@
 import { useEffect, useState } from 'react';
 import axios from 'axios';
 import { Game } from "./Game.jsx";
+import './GameList.css';
 
 export const GameList = () => {
 
@@ -40,7 +41,7 @@ export const GameList = () => {
                 type="button" 
                 onClick={() => filterGameRate()}>{gamesRate ? 'All Games' : 'Best Games'}
                 </button>
-            <div>
+            <div className='game-container'>
                 {
                     games
                     ? games.map(game => <Game key={game.id} game={game} />)

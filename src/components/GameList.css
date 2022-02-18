@@ -1,0 +1,10 @@
+.game-container {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+/* .game-flex {
+  width: 100px;
+} */
