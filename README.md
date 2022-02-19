@@ -1,4 +1,8 @@
 # WILD GAMES
+
+This public repository is a copy of my branch in the private repo https://github.com/WildCodeSchool/remote-fr-lemuriens-checkpoint2/tree/cario_franck
+
+The goal of this project is to put the Wild Code School's API <a href="https://apis.wilders.dev/wild-games">Wild Games</a> into images
 - - -
 # TO SEE THIS PROJECT IN ACTION LOCALLY :
 
